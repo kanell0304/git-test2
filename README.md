@@ -1,1 +1,1 @@
-remot push test
+remote push test
